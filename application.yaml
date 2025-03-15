@@ -5,5 +5,3 @@ eureka:
   instance:
     hostname: localhost
     statusPageUrlPath: /swagger-ui/index.html
-app:
- myname: prs
